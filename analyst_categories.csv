@@ -1,0 +1,23 @@
+"Analyst Defined Categories,NOAA Severe Weather Event Types",
+SURF,
+FLOOD,"Coastal Flood,Debris Flow,Flash Flood, Flood,Lakeshore Flood,Seiche"
+LIGHTNING,Lightning
+WIND,"High Wind,Marine High Wind,Marine Strong Wind,Marine Thunderstorm Wind,Strong Wind,Thunderstorm Wind"
+TORNADO,"Tornado,Waterspout"
+HEAT,"Excessive Heat,Heat"
+DROUGHT,Drought
+HEAVY RAINS,Heavy Rain
+WINTER WEATHER,"Blizzard,Cold/Wind Chill,Extreme Cold/Wind Chill,Frost/Freeze,Freezing Fog,Heavy Snow,Ice Storm,Lake Effect Snow,Sleet,Winter Weather"
+ASTRONOMICAL LOW TIDE,Astronomical Low Tide
+AVALANCHE,Avalanche
+DUST STORM,"Dust Storm,Dust Devil"
+WILDFIRE,"Wildfire,Dense Smoke"
+TROPICAL STORM,"Tropical Storm,Tropical Depression"
+STORM SURGE,"Storm Surge/Tide,Seiche,Rip Current"
+FUNNEL CLOUD,Funndel Cloud
+HAIL,Hail
+FOG,Dense Fog
+HURRICANE,Hurricane
+OTHER,
+TSUNAMI,Tsunami
+VOLCANIC ASH,Volcanic Ash
